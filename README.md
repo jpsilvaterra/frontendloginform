@@ -1,2 +1,2 @@
-# loginform
-A cool login form using HTML, CSS and JS
+# frontendloginform
+A very cool login form using HTML, CSS and JS
